@@ -60,6 +60,7 @@ The dataset for this project was obtained from Kaggle. You can access it [here](
    git clone https://github.com/vishal-git21/FraudDetection.git
 
 2. Run the notebook or script to start the analysis:
+
 Note : Remember to download the dataset in the same directory or modify the path as required
    
 
